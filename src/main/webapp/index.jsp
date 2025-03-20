@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>MyJavaAPP</title>
+	<title>MyJavaAPP Deployment</title>
 </head>
 <body>
 	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
